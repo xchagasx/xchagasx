@@ -1,12 +1,9 @@
-# Hello! 
-
-- 👨🏾 I am Fernando Chagas;
-- 📖 Currently Studying WEB Development at Trybe;
-
 ## Hey there, I'm **Fernando Chagas**! :D
 
 🖥️ I'm a student of FullStack Development at Trybe, Brazilian.
-Here on my profile, you can check out some of my projects made as a student and personal projects **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS**, **MYSQL**, **NODEJS**. Make yourself at home!
+Here on my profile, you can check out some of my projects made as a student and personal projects **HTML**, **CSS**, **JAVASCRIPT**, **REACTJS**, **DOCKER**, **MYSQL**, **NODEJS**. 
+</br>
+Make yourself at home!
 
 You can contact me at xchagasx@yahoo.com.br or at <a href="https://www.linkedin.com/in/fernando-chagas-216860127">Linkedin</a>.
 

@@ -40,6 +40,7 @@ You can contact me at xchagasx@yahoo.com.br or at <a href="https://www.linkedin.
 
 <section>
   <h2 style="margin-bottom: 0" >Learning</h2>
+  <h3> JAVA </h3>
   <h3>One percent everyday...</h3>
 </section>
 
